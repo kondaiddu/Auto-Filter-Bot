@@ -9,8 +9,8 @@ I am Powerful Bot I will give Movies Here...  ♻️</b>"""
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: RK Bots
-★ Username: @Rk_botowner
-★ Update Channel : @Rkbotz"""
+★ Username: @TheOGcoming
+★ Update Channel : @TheOGcoming"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
