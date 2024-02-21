@@ -107,7 +107,7 @@ LINK_MODE = is_enabled("LINK_MODE", True)
 AUTO_FILTER = is_enabled('AUTO_FILTER', True)
 IMDB = is_enabled('IMDB', True)
 SPELL_CHECK = is_enabled("SPELL_CHECK", True)
-SHORTLINK = is_enabled('SHORTLINK', True)
+SHORTLINK = is_enabled('SHORTLINK', False)
 
 PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/5f8e58314cccd291d492b.jpg') #telegraph link of your QR code , make from @professormp_bot
 
