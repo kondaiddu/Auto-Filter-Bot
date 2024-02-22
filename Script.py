@@ -8,9 +8,9 @@ I am Powerful Bot I will give Movies Here...  ♻️</b>"""
 ★ Language: <a href=https://www.python.org>Python</a>
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
-    MY_OWNER_TXT = """★ Name: TheOGcoming 
-★ Username: @TheOGcoming
-★ Update Channel : @TheOGcoming"""
+    MY_OWNER_TXT = """★ Name: Telugu Movies Adda Support 
+★ Username: @TeluguMoviesAddaSupport_bot
+★ Update Channel : @TeluguMoviesAddaSupport_bot"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -61,11 +61,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Telugu_movies_association7 </b><i>{file_name}</i> <b>
-╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
-▫️@Telugu_movies_association7
-▫️@Telugu_movies_association7
-╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b>
+    FILE_CAPTION = """<i>{file_name}</i>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
