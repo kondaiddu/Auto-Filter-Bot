@@ -1,7 +1,6 @@
 class script(object):
-    START_TXT = """<b>ʜᴇʏ {}, <i>{}</i>
-    
-I am Powerful Bot I will give Movies Here...  ♻️</b>"""
+    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Im Your Friend I can share Movies and Series 😁, You Can Get Files With ADS For Free And You Want To Get Files For Free Without Any Ads Premium Per Month 20Rs Contact @TeluguMoviesAddaSupport_bot. 
+Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ♻️</b>"""
 
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
