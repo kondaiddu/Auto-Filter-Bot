@@ -61,7 +61,11 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<i>{file_name}</i>
+    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Telugu_movies_association7 </b> <i>{file_name}</i> <b> 
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
+▫️@Telugu_movies_association7
+▫️@Telugu_movies_association7
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
 
