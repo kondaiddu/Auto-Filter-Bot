@@ -56,7 +56,6 @@ I can't find the <b>{}</b> in my database! 🥲
 🌟 Rating: <a href={url}/ratings>{rating} / 10</a>
 ☀️ Languages: {languages}
 📀 RunTime: {runtime} Minutes
-🌟 Plot: {plot}
 
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
