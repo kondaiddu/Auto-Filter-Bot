@@ -79,7 +79,7 @@ COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/authchanneltma')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/authchanneltma')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/tmafilesgroup')
-TUTORIAL = environ.get("TUTORIAL", "https://t.me/authchanneltma")
+TUTORIAL = environ.get("TUTORIAL", "https://t.me/c/2055901089/956")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/authchanneltma")
 
 # Bot settings
