@@ -43,7 +43,7 @@ Total - <code>{}</code>"""
     NOT_FILE_TXT = """👋 Hello {},
 
 I can't find the <b>{}</b> in my database! 🥲
-
+👉Just share movie name here if Not available @TeluguMoviesAddaSupport_bot
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
 👉 Or not been released yet."""
@@ -56,6 +56,7 @@ I can't find the <b>{}</b> in my database! 🥲
 🌟 Rating: <a href={url}/ratings>{rating} / 10</a>
 ☀️ Languages: {languages}
 📀 RunTime: {runtime} Minutes
+🌟 Plot: {plot}
 
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
