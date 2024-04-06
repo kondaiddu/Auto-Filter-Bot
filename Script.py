@@ -1,6 +1,6 @@
 class script(object):
-    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Im Your Friend I can share Movies and Series 😁, You Can Get Files With ADS For Free And You Want To Get Files For Free Without Any Ads Premium Per Month 20Rs Contact @Shin_Chan_MAMAAA. 
-Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ♻️</b>"""
+    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Oka vela movie lekapothe just follow our update channel 👇🏻❤️🥰.... Danilo discussion channel lo miku nachina movies adagochu...👇🏻👇🏻
+@Shin_Chan_MAMAAA♻️</b>"""
 
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
