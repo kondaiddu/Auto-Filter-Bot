@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Im Your Friend I can share Movies and Series 😁, You Can Get Files With ADS For Free And You Want To Get Files For Free Without Any Ads Premium Per Month 20Rs Contact @TeluguMoviesAddaSupport_bot. 
+    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Im Your Friend I can share Movies and Series 😁, You Can Get Files With ADS For Free And You Want To Get Files For Free Without Any Ads Premium Per Month 20Rs Contact @Shin_Chan_MAMAAA. 
 Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ♻️</b>"""
 
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
@@ -9,7 +9,7 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
 
     MY_OWNER_TXT = """★ Name: Telugu Movies Adda Support 
 ★ Username: @TeluguMoviesAddaSupport_bot
-★ Update Channel : @TeluguMoviesAddaSupport_bot"""
+★ Update Channel : @Shin_Chan_MAMAAA"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -43,7 +43,7 @@ Total - <code>{}</code>"""
     NOT_FILE_TXT = """👋 Hello {},
 
 I can't find the <b>{}</b> in my database! 🥲
-👉Just share movie name here if Not available @TeluguMoviesAddaSupport_bot
+👉Just share movie name here if Not available @Shin_Chan_MAMAAA
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
 👉 Or not been released yet."""
@@ -60,10 +60,10 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Telugu_movies_association7 </b> <i>{file_name}</i> <b> 
+    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Shin_Chan_MAMAAA </b> <i>{file_name}</i> <b> 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
-▫️@Telugu_movies_association7
-▫️@Telugu_movies_association7
+▫️@Shin_Chan_MAMAAA
+▫️@Shin_Chan_MAMAAA
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
@@ -115,4 +115,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=#>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @TeluguMoviesAddaSupport_bot"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @Shin_Chan_MAMAAA"""
