@@ -113,7 +113,7 @@ PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/5f8e58314cccd291d
 
 # for stream
 IS_STREAM = is_enabled('IS_STREAM', True) #true if you want stream feature active in your bot
-BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002109079744") #if is_stream = true then add a channel id ex: -10026393639
+BIN_CHANNEL = environ.get("BIN_CHANNEL", "-1002121777662") #if is_stream = true then add a channel id ex: -10026393639
 if len(BIN_CHANNEL) == 0:
     print('Error - BIN_CHANNEL is missing, exiting now')
     exit()
