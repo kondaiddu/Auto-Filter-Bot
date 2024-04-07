@@ -1,6 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Im Your Friend I can share Movies and Series 😁, You Can Get Files With ADS For Free And You Want To Get Files For Free Without Any Ads Premium Per Month 20Rs Contact @TeluguMoviesAddaSupport_bot. 
-Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ♻️</b>"""
+    START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Im Your Friend I can share Movies and Series 😁, You Can Get Files Without any ADS For Free ♻️</b>"""
 
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
@@ -8,8 +7,8 @@ Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢ�
 ★ Library: <a href=https://pyrogram.org>Pyrogram</a>"""
 
     MY_OWNER_TXT = """★ Name: Telugu Movies Adda Support 
-★ Username: @TeluguMoviesAddaSupport_bot
-★ Update Channel : @TeluguMoviesAddaSupport_bot"""
+★ Username: @TCH_SUPPORT_BOT
+★ Update Channel : @Tchupdates1"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -43,7 +42,7 @@ Total - <code>{}</code>"""
     NOT_FILE_TXT = """👋 Hello {},
 
 I can't find the <b>{}</b> in my database! 🥲
-👉Just share movie name here if Not available @TeluguMoviesAddaSupport_bot
+👉Just share movie name here if Not available @TeluguMoaaviesAddaSupport_bot
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
 👉 Or not been released yet."""
@@ -60,10 +59,10 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Telugu_movies_association7 </b> <i>{file_name}</i> <b> 
+    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Tchupdates1 </b> <i>{file_name}</i> <b> 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
-▫️@Telugu_movies_association7
-▫️@Telugu_movies_association7
+▫️@Tchupdates1
+▫️@Tchupdates1
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
@@ -115,4 +114,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=#>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @TeluguMoviesAddaSupport_bot"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @TCH_SUPPORT_BOT"""
