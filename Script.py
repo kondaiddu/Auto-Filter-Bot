@@ -42,7 +42,7 @@ Total - <code>{}</code>"""
     NOT_FILE_TXT = """👋 Hello {},
 
 I can't find the <b>{}</b> in my database! 🥲
-👉Just share movie name here if Not available @TeluguMoaaviesAddaSupport_bot
+👉Just share movie name here if Not available @TCH_SUPPORT_BOT
 👉 Google Search and check your spelling is correct.
 👉 Please read the Instructions to get better results.
 👉 Or not been released yet."""
