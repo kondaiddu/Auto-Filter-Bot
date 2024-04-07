@@ -76,11 +76,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+nzPBewGqvqYxMmRl')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/tchupdates1')
 UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/tchupdates1')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/tmafilesgroup')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/c/2055901089/956")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/+nzPBewGqvqYxMmRl")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/tchupdates1")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 600)) # Add time in seconds 
