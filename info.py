@@ -34,7 +34,7 @@ if len(BOT_TOKEN) == 0:
 PORT = int(environ.get('PORT', '80')) #don't change anything 
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://telegra.ph/file/58fef5cb458d5b29b0186.jpg https://telegra.ph/file/f0aa4f433132769f8970c.jpg https://telegra.ph/file/f515fbc2084592eca60a5.jpg https://telegra.ph/file/20dbdcffaa89bd3d09a74.jpg https://telegra.ph/file/6045ba953af4def846238.jpg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/2a6b7974741adf257539b.jpgg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '1977483811') #apni tg id daalo
@@ -48,7 +48,7 @@ else:
 INDEX_CHANNELS = [int(index_channels) if index_channels.startswith("-") else index_channels for index_channels in environ.get('INDEX_CHANNELS', '-1002038424519').split()]
 if len(INDEX_CHANNELS) == 0:
     print('Info - INDEX_CHANNELS is empty')
-AUTH_CHANNEL = [int(auth_channels) for auth_channels in environ.get('AUTH_CHANNEL', '-1002076276607').split()]
+AUTH_CHANNEL = [int(auth_channels) for auth_channels in environ.get('AUTH_CHANNEL', '-1002108209562').split()]
 if len(AUTH_CHANNEL) == 0:
     print('Info - AUTH_CHANNEL is empty')
 LOG_CHANNEL = environ.get('LOG_CHANNEL', '-1002077107556') #bot log channel -1005293546253
@@ -76,11 +76,11 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/authchanneltma')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/authchanneltma')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/+nzPBewGqvqYxMmRl')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/+YVdvBAnEBB0xMDU1')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/tmafilesgroup')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/c/2055901089/956")
-VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/authchanneltma")
+VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/+nzPBewGqvqYxMmRl")
 
 # Bot settings
 DELETE_TIME = int(environ.get('DELETE_TIME', 600)) # Add time in seconds 
@@ -89,8 +89,8 @@ MAX_BTN = int(environ.get('MAX_BTN', 10)) #don't change anything in Language
 LANGUAGES = [language.lower() for language in environ.get('LANGUAGES', 'english hindi telugu tamil kannada malayalam').split()]
 IMDB_TEMPLATE = environ.get("IMDB_TEMPLATE", script.IMDB_TEMPLATE)
 FILE_CAPTION = environ.get("FILE_CAPTION", script.FILE_CAPTION)
-SHORTLINK_URL = environ.get("SHORTLINK_URL", "tulinks.online")
-SHORTLINK_API = environ.get("SHORTLINK_API", "d66aa3020faa7bd236da61fe1cd603367a160fa8")
+SHORTLINK_URL = environ.get("SHORTLINK_URL", "")
+SHORTLINK_API = environ.get("SHORTLINK_API", "")
 VERIFY_EXPIRE = int(environ.get('VERIFY_EXPIRE', 86400)) # Add time in seconds
 WELCOME_TEXT = environ.get("WELCOME_TEXT", script.WELCOME_TEXT)
 INDEX_EXTENSIONS = [extensions.lower() for extensions in environ.get('INDEX_EXTENSIONS', 'mp4 mkv').split()]
@@ -109,7 +109,7 @@ IMDB = is_enabled('IMDB', True)
 SPELL_CHECK = is_enabled("SPELL_CHECK", True)
 SHORTLINK = is_enabled('SHORTLINK', True)
 
-PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/5f8e58314cccd291d492b.jpg') #telegraph link of your QR code , make from @professormp_bot
+PAYMENT_QR = environ.get('PAYMENT_QR', 'https://graph.org/file/2a6b7974741adf257539b.jpg') #telegraph link of your QR code , make from @professormp_bot
 
 # for stream
 IS_STREAM = is_enabled('IS_STREAM', True) #true if you want stream feature active in your bot
