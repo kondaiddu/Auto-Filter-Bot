@@ -34,7 +34,7 @@ if len(BOT_TOKEN) == 0:
 PORT = int(environ.get('PORT', '80')) #don't change anything 
 
 # Bot pics
-PICS = (environ.get('PICS', 'https://graph.org/file/2a6b7974741adf257539b.jpgg')).split()
+PICS = (environ.get('PICS', 'https://graph.org/file/2a6b7974741adf257539b.jpg')).split()
 
 # Bot Admins
 ADMINS = environ.get('ADMINS', '1977483811') #apni tg id daalo
