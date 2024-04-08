@@ -1,7 +1,7 @@
 class script(object):
     START_TXT = """<b>Hello {}, <i>{}</i> 👋🏻 Oka vela movie lekapothe just follow our update channel 👇🏻❤️🥰.... Danilo discussion channel lo miku nachina movies adagochu...👇🏻👇🏻
 @Shin_Chan_MAMAAA♻️</b>"""
-
+    
     MY_ABOUT_TXT = """★ Server: <a href=https://www.heroku.com>Heroku</a>
 ★ Database: <a href=https://www.mongodb.com>MongoDB</a>
 ★ Language: <a href=https://www.python.org>Python</a>
