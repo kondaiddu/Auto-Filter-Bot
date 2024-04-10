@@ -76,8 +76,8 @@ DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
 COLLECTION_NAME = environ.get('COLLECTION_NAME', 'Files')
 
 # Links
-SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/tchupdates1')
-UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/tchupdates1')
+SUPPORT_LINK = environ.get('SUPPORT_LINK', 'https://t.me/tch_updates')
+UPDATES_LINK = environ.get('UPDATES_LINK', 'https://t.me/tch_updates')
 FILMS_LINK = environ.get('FILMS_LINK', 'https://t.me/tmafilesgroup')
 TUTORIAL = environ.get("TUTORIAL", "https://t.me/c/2055901089/956")
 VERIFY_TUTORIAL = environ.get("VERIFY_TUTORIAL", "https://t.me/tchupdates1")
