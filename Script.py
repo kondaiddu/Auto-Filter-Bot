@@ -60,10 +60,10 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Shin_Chan_MAMAAA </b> <i>{file_name}</i> <b> 
+    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Shin_Chan_MAMMA </b> <i>{file_name}</i> <b> 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
-▫️@Shin_Chan_MAMAAA
-▫️@Shin_Chan_MAMAAA
+▫️@Shin_Chan_MAMMA
+▫️@Shin_Chan_MAMMA
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b>
 
 🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
