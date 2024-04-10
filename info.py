@@ -1,6 +1,7 @@
 import re, logging
 from os import environ
 from Script import script
+ 
 def is_enabled(type, value):
     data = environ.get(type, str(value))
     if data.lower() in ["true", "yes", "1", "enable", "y"]:
