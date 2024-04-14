@@ -8,7 +8,7 @@ class script(object):
 
     MY_OWNER_TXT = """★ Name: Telugu Movies Adda Support 
 ★ Username: @TCH_SUPPORT_BOT
-★ Update Channel : @Tchupdates1"""
+★ Update Channel : @Tch_Updates"""
 
     STATUS_TXT = """🗂 Total Files: <code>{}</code>
 👤 Total Users: <code>{}</code>
@@ -59,13 +59,12 @@ I can't find the <b>{}</b> in my database! 🥲
 🗣 Requested by: {message.from_user.mention}
 ©️ Powered by: <b>{message.chat.title}</b>"""
 
-    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Tchupdates1 </b> <i>{file_name}</i> <b> 
+    FILE_CAPTION = """<b>📂Fɪʟᴇɴᴀᴍᴇ : - @Tch_Updates </b> <i>{file_name}</i> <b> 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗
-▫️@Tchupdates1
-▫️@Tchupdates1
+▫️@Tch_Updates
+▫️@Tch_Updates
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝ </b>
-
-🚫 ᴘʟᴇᴀsᴇ ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ᴄʟᴏsᴇ ʙᴜᴛᴛᴏɴ ɪꜰ ʏᴏᴜ ʜᴀᴠᴇ sᴇᴇɴ ᴛʜᴇ ᴍᴏᴠɪᴇ 🚫"""
+"""
 
     WELCOME_TEXT = """👋 Hello {mention}, Welcome to {title} group! 💞"""
 
